@@ -1,0 +1,39 @@
+{
+  "id": "math_001",
+  "title": "Πράξεις",
+  "description": "Λύσε τις πράξεις πληκτρολογώντας την απάντηση",
+  "type": "text_answer",
+  "difficulty": 1,
+  "required_level": 0,
+  "estimated_minutes": 5,
+  "points_per_question": 10,
+  "perfect_bonus": 25,
+  "badge": "math_genius",
+  "thumbnail": "",
+  "questions": [
+    {
+      "question": "Πόσο κάνει 2 + 3;",
+      "correct": ["5", "πέντε"]
+    },
+    {
+      "question": "Πόσο κάνει 10 - 4;",
+      "correct": ["6", "έξι"]
+    },
+    {
+      "question": "Πόσο κάνει 3 × 3;",
+      "correct": ["9", "εννέα", "εννιά"]
+    },
+    {
+      "question": "Πόσο κάνει 20 ÷ 4;",
+      "correct": ["5", "πέντε"]
+    },
+    {
+      "question": "Πόσο κάνει 7 + 8;",
+      "correct": ["15", "δεκαπέντε"]
+    },
+    {
+      "question": "Πόσο κάνει 100 ÷ 10;",
+      "correct": ["10", "δέκα"]
+    }
+  ]
+}
