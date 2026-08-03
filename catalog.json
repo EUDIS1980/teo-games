@@ -1,53 +1,29 @@
 {
   "version": 1,
   "games": [
-    {
-      "id": "animals_001",
-      "title": "Zώα της Φάρμας",
-      "description": "Αναγνώρισε τα ζώα από τις φωτογραφίες τους",
-      "type": "multiple_choice",
-      "difficulty": 1,
-      "required_level": 0,
-      "points_per_question": 5,
-      "perfect_bonus": 20,
-      "thumbnail": "",
-      "url": "games/animals_001.json"
-    },
-    {
-      "id": "planets_001",
-      "title": "Πλανήτες",
-      "description": "Σωστό ή Λάθος για το ηλιακό σύστημα",
-      "type": "true_false",
-      "difficulty": 2,
-      "required_level": 2,
-      "points_per_question": 10,
-      "perfect_bonus": 30,
-      "thumbnail": "",
-      "url": "games/planets_001.json"
-    },
-    {
-      "id": "math_001",
-      "title": "Πράξεις",
-      "description": "Λύσε τις πράξεις πληκτρολογώντας την απάντηση",
-      "type": "text_answer",
-      "difficulty": 1,
-      "required_level": 0,
-      "points_per_question": 10,
-      "perfect_bonus": 25,
-      "thumbnail": "",
-      "url": "games/math_001.json"
-    },
-    {
-      "id": "geometry_001",
-      "title": "Γεωμετρία",
-      "description": "Μάθε τι είναι η ακτίνα του κύκλου",
-      "type": "lesson",
-      "difficulty": 2,
-      "required_level": 3,
-      "points_per_question": 10,
-      "perfect_bonus": 40,
-      "thumbnail": "",
-      "url": "games/geometry_001.json"
-    }
+{
+  "id": "trivia_001",
+  "title": "Γενικές Γνώσεις για Ξεφτέρια",
+  "description": "Δοκίμασε τις γνώσεις σου σε διασκεδαστικές ερωτήσεις!",
+  "type": "multiple_choice",
+  "difficulty": 1,
+  "required_level": 0,
+  "points_per_question": 5,
+  "perfect_bonus": 20,
+  "thumbnail": "",
+  "url": "games/trivia_001.json"
+},
+{
+  "id": "trivia_challenge_001",
+  "title": "Mega Challenge Γνώσεων & Παγίδες",
+  "description": "Δύσκολες ερωτήσεις και έξυπνες παγίδες για δυνατούς λύτες!",
+  "type": "multiple_choice",
+  "difficulty": 3,
+  "required_level": 2,
+  "points_per_question": 15,
+  "perfect_bonus": 50,
+  "thumbnail": "",
+  "url": "games/trivia_challenge_001.json"
+}
   ]
 }
