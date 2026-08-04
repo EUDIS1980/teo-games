@@ -1,29 +1,41 @@
 {
   "version": 1,
   "games": [
-{
-  "id": "trivia_001",
-  "title": "Γενικές Γνώσεις για Ξεφτέρια",
-  "description": "Δοκίμασε τις γνώσεις σου σε διασκεδαστικές ερωτήσεις!",
-  "type": "multiple_choice",
-  "difficulty": 1,
-  "required_level": 0,
-  "points_per_question": 5,
-  "perfect_bonus": 20,
-  "thumbnail": "",
-  "url": "games/trivia_001.json"
-},
-{
-  "id": "trivia_challenge_001",
-  "title": "Mega Challenge Γνώσεων & Παγίδες",
-  "description": "Δύσκολες ερωτήσεις και έξυπνες παγίδες για δυνατούς λύτες!",
-  "type": "multiple_choice",
-  "difficulty": 3,
-  "required_level": 2,
-  "points_per_question": 15,
-  "perfect_bonus": 50,
-  "thumbnail": "",
-  "url": "games/trivia_challenge_001.json"
-}
+    {
+      "id": "trivia_001",
+      "title": "Γενικές Γνώσεις για Ξεφτέρια",
+      "description": "Δοκίμασε τις γνώσεις σου σε διασκεδαστικές ερωτήσεις!",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "required_level": 0,
+      "points_per_question": 5,
+      "perfect_bonus": 20,
+      "thumbnail": "",
+      "url": "games/trivia_001.json"
+    },
+    {
+      "id": "trivia_challenge_001",
+      "title": "Mega Challenge Γνώσεων & Παγίδες",
+      "description": "Δύσκολες ερωτήσεις και έξυπνες παγίδες για δυνατούς λύτες!",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "required_level": 2,
+      "points_per_question": 15,
+      "perfect_bonus": 50,
+      "thumbnail": "",
+      "url": "games/trivia_challenge_001.json"
+    },
+    {
+      "id": "έκτακτες_ανάγκες_mseaivwr",
+      "title": "📢🆘Έκτακτες ανάγκες!",
+      "description": "Δες πόσο καλά γνωρίζεις τι να κάνεις στην δύσκολη στιγμή",
+      "type": "true_false",
+      "difficulty": 2,
+      "required_level": 0,
+      "points_per_question": 10,
+      "perfect_bonus": 25,
+      "thumbnail": "",
+      "url": "games/έκτακτες_ανάγκες_mseaivwr.json"
+    }
   ]
 }
