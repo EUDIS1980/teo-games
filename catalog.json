@@ -48,6 +48,18 @@
       "perfect_bonus": 30,
       "thumbnail": "",
       "url": "games/λεξιλόγιο_έννοιες_mseb8gud.json"
+    },
+    {
+      "id": "λεξιλόγιο_έννοιες_msebmqlx",
+      "title": "📚 Λεξιλόγιο & Έννοιες",
+      "description": "Μαθαίνουμε cool λέξεις!",
+      "type": "text_answer",
+      "difficulty": 1,
+      "required_level": 1,
+      "points_per_question": 10,
+      "perfect_bonus": 30,
+      "thumbnail": "",
+      "url": "games/λεξιλόγιο_έννοιες_msebmqlx.json"
     }
   ]
 }
