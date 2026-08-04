@@ -36,6 +36,18 @@
       "perfect_bonus": 25,
       "thumbnail": "",
       "url": "games/έκτακτες_ανάγκες_mseaivwr.json"
+    },
+    {
+      "id": "λεξιλόγιο_έννοιες_mseb8gud",
+      "title": "📚 Λεξιλόγιο & Έννοιες",
+      "description": "Μαθαίνουμε cool λέξεις!",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "required_level": 1,
+      "points_per_question": 10,
+      "perfect_bonus": 30,
+      "thumbnail": "",
+      "url": "games/λεξιλόγιο_έννοιες_mseb8gud.json"
     }
   ]
 }
