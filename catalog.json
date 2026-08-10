@@ -14,18 +14,6 @@
       "url": "games/trivia_001.json"
     },
     {
-      "id": "trivia_challenge_001",
-      "title": "Mega Challenge Γνώσεων & Παγίδες",
-      "description": "Δύσκολες ερωτήσεις και έξυπνες παγίδες για δυνατούς λύτες!",
-      "type": "multiple_choice",
-      "difficulty": 3,
-      "required_level": 2,
-      "points_per_question": 15,
-      "perfect_bonus": 50,
-      "thumbnail": "",
-      "url": "games/trivia_challenge_001.json"
-    },
-    {
       "id": "έκτακτες_ανάγκες_mseaivwr",
       "title": "📢🆘Έκτακτες ανάγκες!",
       "description": "Δες πόσο καλά γνωρίζεις τι να κάνεις στην δύσκολη στιγμή",
