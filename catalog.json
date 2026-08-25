@@ -12,18 +12,6 @@
       "perfect_bonus": 25,
       "thumbnail": "",
       "url": "games/έκτακτες_ανάγκες_mseaivwr.json"
-    },
-    {
-      "id": "ξέρω_πολλά_εγώ_msebob0t",
-      "title": "💯Ξέρω πολλά εγώ!",
-      "description": "Μπορείς να απαντήσεις σωστά;",
-      "type": "text_answer",
-      "difficulty": 1,
-      "required_level": 1,
-      "points_per_question": 10,
-      "perfect_bonus": 30,
-      "thumbnail": "",
-      "url": "games/ξέρω_πολλά_εγώ_msebob0t.json"
     }
   ]
 }
