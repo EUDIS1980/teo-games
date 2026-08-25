@@ -36,6 +36,18 @@
       "perfect_bonus": 25,
       "thumbnail": "",
       "url": "games/speed_game_για_ξεφτέρια_mt8g6o79.json"
+    },
+    {
+      "id": "γράφω_σωστά_mt8glmyn",
+      "title": "🤪 Γράφω σωστά!",
+      "description": "Γράψε στα Ελληνικά τις σωστές απαντήσεις",
+      "type": "text_answer",
+      "difficulty": 1,
+      "required_level": 2,
+      "points_per_question": 17,
+      "perfect_bonus": 30,
+      "thumbnail": "",
+      "url": "games/γράφω_σωστά_mt8glmyn.json"
     }
   ]
 }
