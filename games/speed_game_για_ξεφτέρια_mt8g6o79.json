@@ -1,0 +1,95 @@
+{
+  "id": "speed_game_για_ξεφτέρια_mt8g6o79",
+  "title": "👲Speed Game για ξεφτέρια",
+  "description": "Ξέρεις τις απαντήσεις;",
+  "type": "true_false",
+  "difficulty": 1,
+  "required_level": 1,
+  "estimated_minutes": 10,
+  "points_per_question": 10,
+  "perfect_bonus": 25,
+  "badge": "",
+  "thumbnail": "",
+  "questions": [
+    {
+      "question": "Η Γη έχει 7 ηπείρους",
+      "correct": true
+    },
+    {
+      "question": "Η ώρα 19:30 σημαίνει 7 και μισή το απόγευμα",
+      "correct": true
+    },
+    {
+      "question": "Στη γραμματική, η μετοχή δείχνει πώς γίνεται κάτι ",
+      "correct": false
+    },
+    {
+      "question": "Ο κύκλος έχει 180 μοίρες",
+      "correct": false
+    },
+    {
+      "question": "Τα ουσιαστικά φανερώνουν πρόσωπα, ζώα, πράγματα, ενέργεια ή κατάσταση",
+      "correct": true
+    },
+    {
+      "question": "Η καρδιά των ενήλικων ανθρώπων χτυπάει περίπου 20 φορές το λεπτό σε κατάσταση ηρεμίας",
+      "correct": false
+    },
+    {
+      "question": "Το χιόνι είναι παγωμένες σταγόνες νερού",
+      "correct": false
+    },
+    {
+      "question": "Οι πιγκουίνοι ζουν στον Βόρειο Πόλο",
+      "correct": false
+    },
+    {
+      "question": "Το τετράγωνο έχει 4 ίσες πλευρές",
+      "correct": true
+    },
+    {
+      "question": "Η πρωτεύουσα της Αυστραλίας είναι το Σίδνεϊ",
+      "correct": false
+    },
+    {
+      "question": "Η ορθή γωνία είναι ακριβώς 90 μοίρες",
+      "correct": true
+    },
+    {
+      "question": "Ο Όλυμπος είναι το ψηλότερο βουνό της Ελλάδας",
+      "correct": true
+    },
+    {
+      "question": "Ένα χιλιόμετρο ισούται με 1.000 μέτρα",
+      "correct": true
+    },
+    {
+      "question": "Τα δελφίνια είναι ψάρια",
+      "correct": false
+    },
+    {
+      "question": "Η Ελλάδα ανήκει στην ευρωπαϊκή ήπειρο",
+      "correct": true
+    },
+    {
+      "question": "Ένα τρίγωνο με όλες τις πλευρές του ίσες λέγεται ισοσκελές",
+      "correct": false
+    },
+    {
+      "question": "Το αντίθετο της λέξης «επιμελής» είναι «αμελής»",
+      "correct": true
+    },
+    {
+      "question": "Τη θερμοκρασία τη μετράμε σε βαθμούς Κελσίου",
+      "correct": true
+    },
+    {
+      "question": "Η πρωτεύουσα της Ισπανίας είναι το Λονδίνο",
+      "correct": false
+    },
+    {
+      "question": "Βιολόγος είναι ο επιστήμονας που μελετάει τη ζωή",
+      "correct": true
+    }
+  ]
+}
