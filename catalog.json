@@ -48,6 +48,18 @@
       "perfect_bonus": 30,
       "thumbnail": "",
       "url": "games/γράφω_σωστά_mt8glmyn.json"
+    },
+    {
+      "id": "μαθηματικά_για_μικρούς_επιστήμονες_mt8he4cm",
+      "title": "🤓 Μαθηματικά για μικρούς επιστήμονες",
+      "description": "Απάντησε όσο πιο γρήγορα μπορείς!",
+      "type": "text_answer",
+      "difficulty": 1,
+      "required_level": 1,
+      "points_per_question": 20,
+      "perfect_bonus": 30,
+      "thumbnail": "",
+      "url": "games/μαθηματικά_για_μικρούς_επιστήμονες_mt8he4cm.json"
     }
   ]
 }
