@@ -60,6 +60,18 @@
       "perfect_bonus": 30,
       "thumbnail": "",
       "url": "games/μαθηματικά_για_μικρούς_επιστήμονες_mt8he4cm.json"
+    },
+    {
+      "id": "προπαίδεια_mvvcok13",
+      "title": "Προπαίδεια! ✊",
+      "description": "Όσο πιο πολύ εξασκείσαι, τόσο καλύτερος γίνεσαι!",
+      "type": "text_answer",
+      "difficulty": 1,
+      "required_level": 1,
+      "points_per_question": 10,
+      "perfect_bonus": 24,
+      "thumbnail": "",
+      "url": "games/προπαίδεια_mvvcok13.json"
     }
   ]
 }
