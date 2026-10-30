@@ -1,0 +1,135 @@
+{
+  "id": "προπαίδεια_mvvcok13",
+  "title": "Προπαίδεια! ✊",
+  "description": "Όσο πιο πολύ εξασκείσαι, τόσο καλύτερος γίνεσαι!",
+  "type": "text_answer",
+  "difficulty": 1,
+  "required_level": 1,
+  "estimated_minutes": 15,
+  "points_per_question": 10,
+  "perfect_bonus": 24,
+  "badge": "",
+  "thumbnail": "",
+  "questions": [
+    {
+      "question": "2x6;",
+      "correct": "12"
+    },
+    {
+      "question": "5x7;",
+      "correct": "35"
+    },
+    {
+      "question": "8x9;",
+      "correct": "72"
+    },
+    {
+      "question": "4x4;",
+      "correct": "16"
+    },
+    {
+      "question": "3x3;",
+      "correct": "9"
+    },
+    {
+      "question": "9x7;",
+      "correct": "63"
+    },
+    {
+      "question": "8x10;",
+      "correct": "80"
+    },
+    {
+      "question": "4x8;",
+      "correct": "32"
+    },
+    {
+      "question": "3x9;",
+      "correct": "27"
+    },
+    {
+      "question": "9x2;",
+      "correct": "18"
+    },
+    {
+      "question": "5x5;",
+      "correct": "25"
+    },
+    {
+      "question": "7x4;",
+      "correct": "28"
+    },
+    {
+      "question": "3x6;",
+      "correct": "18"
+    },
+    {
+      "question": "6x6;",
+      "correct": "36"
+    },
+    {
+      "question": "2x6;",
+      "correct": "12"
+    },
+    {
+      "question": "8x5;",
+      "correct": "40"
+    },
+    {
+      "question": "7x9;",
+      "correct": "63"
+    },
+    {
+      "question": "8x6;",
+      "correct": "48"
+    },
+    {
+      "question": "4x9;",
+      "correct": "36"
+    },
+    {
+      "question": "Πόσες φορές χωράει το 4 στο 32;",
+      "correct": "8"
+    },
+    {
+      "question": "9x9;",
+      "correct": "81"
+    },
+    {
+      "question": "3x10;",
+      "correct": "30"
+    },
+    {
+      "question": "4x7;",
+      "correct": "28"
+    },
+    {
+      "question": "8x8;",
+      "correct": "64"
+    },
+    {
+      "question": "Πόσες φορές χωράει το 8 στο 16;",
+      "correct": "2"
+    },
+    {
+      "question": "10x7;",
+      "correct": "70"
+    },
+    {
+      "question": "7x8;",
+      "correct": "56"
+    },
+    {
+      "question": "4x2;",
+      "correct": "8"
+    },
+    {
+      "question": "6x9;",
+      "correct": "54"
+    },
+    {
+      "question": "Πόσες φορές χωράει το 5 στο 30;",
+      "correct": "6"
+    }
+  ]
+}
